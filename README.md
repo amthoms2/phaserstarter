@@ -1,5 +1,5 @@
-# phaserstarter
-#Phaser Starter Code (Webpack)
+# Phaser Starter Code (includes Webpack and Socket.io)
+
 This project is starter code for Phaser3, built WITHOUT using Create-React-App CLI.
 
 To use this project, follow the below mentioned simple steps.
